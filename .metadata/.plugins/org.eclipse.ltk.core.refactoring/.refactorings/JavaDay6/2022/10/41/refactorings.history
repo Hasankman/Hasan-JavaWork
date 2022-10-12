@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 6 packages to &apos;JavaCore/src&apos;&#x0A;- Original project: &apos;JavaDay6&apos;&#x0A;- Destination element: &apos;JavaCore/src&apos;&#x0A;- Original elements:&#x0A;     JavaDay6/src/InheritanceViewingAbstract&#x0A;     JavaDay6/src/TypeCasting&#x0A;     JavaDay6/src/Person&#x0A;     JavaDay6/src/Final&#x0A;     JavaDay6/src/listOfObjects&#x0A;     JavaDay6/src/Static" description="Copy packages" destination="=JavaCore/src" element1="/src&lt;InheritanceViewingAbstract" element2="/src&lt;TypeCasting" element3="/src&lt;Person" element4="/src&lt;Final" element5="/src&lt;listOfObjects" element6="/src&lt;Static" flags="589830" fragments="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1665581756334" version="1.0"/>
+</session>

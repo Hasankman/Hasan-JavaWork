@@ -1,0 +1,8 @@
+package Lambda;
+
+public interface Greeting {
+	public void great();//Only declaration and no body
+	//body is implemented by class
+	public void welcome();
+	
+}

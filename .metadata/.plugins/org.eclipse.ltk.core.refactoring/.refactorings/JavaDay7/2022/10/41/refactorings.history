@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;Interface&apos; to &apos;JavaCore/src&apos;&#x0A;- Original project: &apos;JavaDay7&apos;&#x0A;- Destination element: &apos;JavaCore/src&apos;&#x0A;- Original element: &apos;JavaDay7/src/Interface&apos;" description="Copy package" destination="=JavaCore/src" element1="/src&lt;Interface" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1665581780570" version="1.0"/>
+</session>

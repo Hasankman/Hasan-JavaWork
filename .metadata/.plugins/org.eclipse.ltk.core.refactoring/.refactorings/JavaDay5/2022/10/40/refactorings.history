@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;JavaDay6/src/typeCasting&apos;&#x0A;- Original project: &apos;JavaDay5&apos;&#x0A;- Destination element: &apos;JavaDay6/src/typeCasting&apos;&#x0A;- Original elements:&#x0A;     Inheritance.Person.java&#x0A;     Inheritance.InheritanceMain.java&#x0A;     Inheritance.Employee.java&#x0A;     Inheritance.Manager.java" description="Copy compilation units" destination="=JavaDay6/src&lt;typeCasting" element1="/src&lt;Inheritance{Person.java" element2="/src&lt;Inheritance{InheritanceMain.java" element3="/src&lt;Inheritance{Employee.java" element4="/src&lt;Inheritance{Manager.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1664790819157" units="4" version="1.0"/>
+</session>

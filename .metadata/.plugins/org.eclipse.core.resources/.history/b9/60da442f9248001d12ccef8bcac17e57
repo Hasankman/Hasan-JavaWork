@@ -1,0 +1,8 @@
+package Enum;
+
+public class EnumMain {
+	public static void main(String[] args) {
+		Colours myColour=Colours.BLUE;
+		System.out.println(myColour);
+	}
+}

@@ -1,0 +1,23 @@
+package HashSets;
+
+public class ProductIterator {
+	String name;
+	int price;
+	int quantity;
+	String brand;
+	public ProductIterator(String name, int price, int quantity, String brand) {
+		super();
+		this.name = name;
+		this.price = price;
+		this.quantity = quantity;
+		this.brand = brand;
+	}
+	public ProductIterator() {
+		super();
+	}
+	@Override
+	public String toString() {
+		return "Product [name=" + name + ", price=" + price + ", quantity=" + quantity + ", brand=" + brand + "]";
+	}
+
+}

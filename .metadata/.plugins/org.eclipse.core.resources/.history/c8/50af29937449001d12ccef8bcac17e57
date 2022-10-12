@@ -1,0 +1,24 @@
+package FileIO;
+
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
+
+
+public class Readers {
+	public static void main(String[] args) {
+		try {
+			Reader r=new FileReader("Hasank.txt");
+			int data=r.read();//only first character
+			while(data != -1) // loops through all the char until
+			{
+				System.out.println((char)data);
+				data=r.read();//read the next character 
+			}
+			//System.out.println(data);
+		}catch (IOException e) {
+			//TODD Auto-generate catch block
+			e.printStackTrace();
+		}
+	}
+}
