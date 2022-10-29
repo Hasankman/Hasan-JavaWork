@@ -1,8 +1,8 @@
 package DependencyInversion;
 
 public class WeatherTracker {
-    //private String conditions;
-
+    private String conditions;
+    
     public void setConditions(String weather) {
         this.conditions = weather;
     }
